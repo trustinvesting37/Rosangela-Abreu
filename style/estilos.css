@@ -40,6 +40,9 @@ body {
     display: block;
     margin: auto;
 }
+.contenedor-video{
+  width: 100%
+}
 .teleg{
     width: 60px;
     height: 60px;
@@ -1019,6 +1022,12 @@ footer .contenedor{
         font-size: 35px;
 
     }
+    .video{
+        display: block;
+        margin: auto;
+        width: auto;
+        height: auto;
+    }
 
     .sobreNosotros .ilustracion{
         width: 80%;
@@ -1097,6 +1106,12 @@ footer .contenedor{
     }
     .sombraDespues{
         height: 1750px;
+    }
+    .video{
+        display: block;
+        margin: auto;
+        width: auto;
+        height: auto;
     }
 }
 @media screen and (max-width:310px){
